@@ -1,1 +1,1 @@
-# sample1
+# sample1 Rails app
